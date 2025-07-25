@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on a **freelance project, Upcoming news!**.
 - 🌱 I’m currently learning **Java, SpringBoot, Angular and Docker**.
-- 📫 How to reach me: **My portfolio you can use to send me a mensage! <a> href="https://navarrorangel.github.io/portfolio/#" target="_blank"</a>**.
+- 📫 How to reach me: **My portfolio you can use to send me a mensage! <a href="https://navarrorangel.github.io/portfolio/#" target="_blank"></a>**.
 ---
 
 ## 🔗 Connect with Me
@@ -33,7 +33,7 @@
 ### Programming Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="golang" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   </p>
 
@@ -60,13 +60,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavarroRangel&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
----
-
-        <a href="URL_TO_PROJECT_DEPLOYMENT_1" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-3088F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-        </a>
-      </p>
-      <p>A brief description of your project, its features, and the technologies used.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project
