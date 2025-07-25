@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on a **freelance project, Upcoming news!**.
 - 🌱 I’m currently learning **Java, SpringBoot, Angular and Docker**.
-- 📫 How to reach me: **My <a href="https://navarrorangel.github.io/portfolio/#" target="_blank"> portfolio </a> you can use to send me a mensage! **.
+- <p>📫 How to reach me: <strong>My <a href="https://navarrorangel.github.io/portfolio/#" target="_blank"> portfolio, </a> you can use to send me a mensage!</strong>.</p>
 ---
 
 ## 🔗 Connect with Me
