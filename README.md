@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on a **freelance project, Upcoming news!**.
 - 🌱 I’m currently learning **Java, SpringBoot, Angular and Docker**.
-- 📫 How to reach me: **My portfolio you can use to send me a mensage! <a href="https://navarrorangel.github.io/portfolio/#" target="_blank"></a>**.
+- 📫 How to reach me: **My portfolio you can use to send me a mensage! <a href="https://navarrorangel.github.io/portfolio/#" target="_blank">Portfolio</a>**.
 ---
 
 ## 🔗 Connect with Me
@@ -33,7 +33,7 @@
 ### Programming Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="golang" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   </p>
 
