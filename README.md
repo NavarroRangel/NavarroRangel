@@ -24,9 +24,6 @@
   <a href="navarrorangel1@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
 
 ---
@@ -59,27 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[NavarroRangel]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[NavarroRange]&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavarroRangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavarroRange&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
-## ✨ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Name 1</h3>
-      <br />
-      <a href="URL_TO_YOUR_PROJECT_1">
-        <img src="URL_TO_PROJECT_IMAGE_1" alt="Project Name 1">
-      </a>
-      <br />
-      <p align="center">
-        <a href="URL_TO_REPO_1" target="_blank">
-          <img src="https://img.shields.io/badge/Code-1D1D1D?style=for-the-badge&logo=github&logoColor=white" alt="Code">
-        </a>
         <a href="URL_TO_PROJECT_DEPLOYMENT_1" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-3088F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
         </a>
