@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQE7gA02LC5mow/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700338794005?e=1756339200&v=beta&t=DQuNH-EilVL2DeD8tbr2OwAT9YwIiZQCIICbfeRo4vI" width="200px" alt="Navarro Photo"/>
-  <br>
   Hi there, I'm Navarro Rangel de Souza! 👋
 </h1>
 
