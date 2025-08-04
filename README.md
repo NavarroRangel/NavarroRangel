@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-streak-stats.vercel.app/?user=NavarroRangel&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NavarroRangel&theme=radical&no-bg=true" alt="GitHub Trophies"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavarroRangel&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
